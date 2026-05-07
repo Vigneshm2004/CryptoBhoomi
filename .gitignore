@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Node/Blockchain
+node_modules/
+build/
+.truffle/
+
+# OS/IDEs
+.vscode/
+.DS_Store
+Thumbs.db
